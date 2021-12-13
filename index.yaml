@@ -548,4 +548,20 @@ entries:
     urls:
     - https://github.com/helm/charts-repo-actions-demo/releases/download/example-v2-0.2.2/example-v2-0.2.2.tgz
     version: 0.2.2
+  examprep-fastapi:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-12-13T20:30:51.121843113Z"
+    description: A Helm chart for Kubernetes  exam prep
+    digest: 12763d910501c7511affe60469fe6701891a529aa86b60cea67667669d5b313a
+    home: https://helm.sh/helm
+    maintainers:
+    - email: email@example.com
+      name: Hantson Alec
+    name: examprep-fastapi
+    sources:
+    - https://github.com/helm/helm
+    urls:
+    - https://github.com/HantsonAlec/examprep-helm/releases/download/examprep-fastapi-1.0.0/examprep-fastapi-1.0.0.tgz
+    version: 1.0.0
 generated: "2019-12-08T02:57:21.985425597Z"
